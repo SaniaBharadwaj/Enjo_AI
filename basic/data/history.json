@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "text": "hello"
+    },
+    {
+        "role": "model",
+        "text": "Hey there, Shin! It's ENJO here. Your AI buddy and partner in crime (just kidding, I won't hack your computer... unless you ask me to). What brings you to our corner of the digital universe today?"
+    }
+]

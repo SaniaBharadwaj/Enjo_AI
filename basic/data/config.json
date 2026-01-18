@@ -1,0 +1,26 @@
+{
+  "system": {
+    "name": "Enjo",
+
+    "app_mode": "basic"
+  },
+
+  "mouth_kokoro": {
+    "model": "kokoro-v1.0.onnx",
+    "voices": "voices-v1.0.bin",
+    "default_voice": "af_bella"
+  },
+
+  "app_paths": {
+    "chrome": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "spotify": "C:\\Users\\YOUR_USERNAME\\AppData\\Roaming\\Spotify\\Spotify.exe",
+    "notepad": "notepad.exe",
+    "calculator": "calc.exe",
+    "cmd": "cmd.exe",
+    "code": "C:\\Users\\YOUR_USERNAME\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+  },
+  "defense_protocols": {
+    "angry": "STATUS: HOSTILE. User is aggressive. Refuse to help.",
+    "fear": "STATUS: DEFENSIVE. User is scary. Back away."
+  }
+}

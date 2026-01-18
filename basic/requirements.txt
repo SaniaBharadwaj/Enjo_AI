@@ -1,0 +1,9 @@
+google-genai
+python-dotenv
+groq
+ollama
+kokoro-tts
+soundfile
+pyaudio
+pygame
+SpeechRecognition

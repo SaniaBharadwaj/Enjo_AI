@@ -84,7 +84,7 @@ Navigate to `src/senses/mouth.py`.
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone [[https://github.com/YourUsername/ENJO.git](https://github.com/SaniaBharadwaj/Enjo_AI.git)]cd ENJO
+   git clone (https://github.com/SaniaBharadwaj/Enjo_AI.git)cd ENJO
 
 pip install -r requirements.txt
 (Required libs: google-genai, groq, ollama, kokoro-tts, pygame, SpeechRecognition)

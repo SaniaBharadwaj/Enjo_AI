@@ -2,6 +2,7 @@ google-genai
 python-dotenv
 groq
 ollama
+pycaw
 kokoro-tts
 soundfile
 pyaudio

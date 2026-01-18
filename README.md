@@ -14,6 +14,7 @@
 
 Unlike standard chatbots, ENJO features a **Unified Brain Architecture** that seamlessly switches between High-IQ Cloud Models (Gemini/Groq) and Privacy-Focused Local Models (Llama 3 via Ollama) depending on network availability.
 
+--Windows Only--
 ---
 
 ## 🧠 Core Architecture (Basic)
